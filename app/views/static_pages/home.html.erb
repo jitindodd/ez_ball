@@ -1,4 +1,13 @@
-<h1>Home</h1>
-<p>
-  This is the home page dawg.
-</p>
+<div class="center jumbotron">
+  <h1>Welcome to EZ_BALL</h1>
+
+  <h2>
+    This is the home page dawg...
+    <a href="http://jitindodd.com">DA Plug</a>
+  </h2>
+
+  <%= link_to "Sign up now!", signup_path, class: "btn btn-lg btn-primary" %>
+</div>
+
+<%= link_to image_tag("raptors.png", alt: "Raptors Logo"),
+                                          'http://raptors.realgm.com' %>
