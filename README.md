@@ -1,10 +1,12 @@
-# README
+# EZ_BALL
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+This application is under development. The goal is to have a modern website/platform to allow local basketball clubs to keep track of player/league stats.
 
-Things you may want to cover:
+It's being built with Rails 5.
+Using a Postgres DB.
+Frontend still needs to be designed and planned, prototype will be using simple html.erb, might expand to using React/Vue in the future.
 
+The following will be covered in the near future:
 * Ruby version
 
 * System dependencies
