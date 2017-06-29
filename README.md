@@ -22,5 +22,3 @@ The following will be covered in the near future:
 * Services (job queues, cache servers, search engines, etc.)
 
 * Deployment instructions
-
-* ...
